@@ -1,9 +1,10 @@
-pydantic
-langchain
-dotenv
+fastapi
+uvicorn
 sqlalchemy
 psycopg2-binary
-fastapi
-langchain_groq
+python-dotenv
+pydantic
+langchain
+langchain-groq
 langgraph
-os
+dotenv
