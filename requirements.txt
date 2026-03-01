@@ -1,0 +1,9 @@
+pydantic
+langchain
+dotenv
+sqlalchemy
+psycopg2-binary
+fastapi
+langchain_groq
+langgraph
+os
